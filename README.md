@@ -1,1 +1,1 @@
-https://github.com/darkgsl/rsschool-cv
+https://darkgsl.github.io/rsschool-cv/cv
