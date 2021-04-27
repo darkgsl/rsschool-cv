@@ -12,6 +12,6 @@ The target of development is the result, not a process.
    -  APs from course: iOS and Swift for Beginners from raywenderlich
    -  tasks from codewars.com
 7. - <https://cs50.harvard.edu/>
-     - iOS and Swift for Beginners from raywenderlich.com
-     - App Development with Swift from Apple
+   - iOS and Swift for Beginners from raywenderlich.com
+   - App Development with Swift from Apple
 8. B1
